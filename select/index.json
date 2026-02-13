@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "貴方の恋人になりたいのです",
+  "base_artist": "阿部真央",
+  "createdAt": "2026-02-13T10:46:01.045852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "貴方の恋人になりたいのです",
+      "artist": "Mao Abe",
+      "has_synced": false,
+      "path": "select/01_貴方の恋人になりたいのです_Mao_Abe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "貴方の恋人になりたいのです",
+      "artist": "阿部真央",
+      "has_synced": true,
+      "path": "select/02_貴方の恋人になりたいのです_阿部真央.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "貴方の恋人になりたいのです@日本武道館",
+      "artist": "Mao Abe",
+      "has_synced": false,
+      "path": "select/03_貴方の恋人になりたいのです@日本武道館_Mao_Abe.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "貴方の恋人になりたいのです",
+      "artist": "阿部 真央",
+      "has_synced": false,
+      "path": "select/pl_01_貴方の恋人になりたいのです_阿部_真央.txt"
+    }
+  ]
+}
